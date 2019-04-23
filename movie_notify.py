@@ -32,7 +32,7 @@ message.attach(MIMEText(body, 'plain'))
 text = message.as_string()
 
 
-def ipl():
+def movie():
     url = url_inp
 
     # open with GET method
@@ -55,4 +55,4 @@ def ipl():
             print(page.status_code + "Error")
 
 
-ipl()
+movie()
