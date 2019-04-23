@@ -4,7 +4,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-server = smtplib.SMTP('smtp.gmail.com', 465)
+server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
 email = input() # example@gmail.com
 drowssap = input() # or replace with string
