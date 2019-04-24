@@ -6,4 +6,4 @@ A simple Python script to notify you through mail when a movie ticket is availab
 Enter movie page link from in.bookmyshow.com into url and theater name in theater and proceed.
 Enter your crediantials for mail.
 
-Here is an example of Avengers: endgame at Prasads large screen.
+Here is an example of Avengers: Endgame at Prasads large screen.
